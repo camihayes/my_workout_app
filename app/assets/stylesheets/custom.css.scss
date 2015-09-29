@@ -1,0 +1,19 @@
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+body{
+  padding-top: 52px;
+  background-color: #99897C;
+}
+
+.jumbotron{
+  background-image: image-url("runner.jpg");
+  background-position: 50% 56%;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+}
+
+.navbar{
+  background-color:#000000;
+  color: #ffffff;
+}
