@@ -1,28 +1,19 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the code for my Ruby On Rails class using BDD with RSpec and Capybara.
 
-Things you may want to cover:
+Thank you, come again.
 
-* Ruby version
+Allon-sy
 
-* System dependencies
+Geronimo
 
-* Configuration
+Shutity up up up
 
-* Database creation
+12 is in the house
 
-* Database initialization
+The Magician
 
-* How to run the test suite
+The Witch's Apprentice
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+TARDIS
